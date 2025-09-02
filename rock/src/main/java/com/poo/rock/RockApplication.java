@@ -8,7 +8,12 @@ import org.springframework.web.bind.annotation.RestController;
 @SpringBootApplication
 @RestController
 public class RockApplication {
-
+/*
+* controller
+* model
+* dto
+* repository
+ */
     public static void main(String[] args) {
         SpringApplication.run(RockApplication.class, args);
     }
